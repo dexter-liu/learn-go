@@ -1,6 +1,6 @@
-github.com/armstrongli/go-bmi v0.0.1 h1:yOC8LeO95p1xADH5UI69uEiOMxhx+loYZku0ZrJTIb0=
-github.com/armstrongli/go-bmi v0.0.1/go.mod h1:4MepvVYYUQ9Z+ia8NfAEJBrDYY7QfucS696e2LiaYYY=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
+github.com/dexter-liu/go-bmi v0.0.0-20250107085034-41f067d6d6bb h1:FZ0KBnRoqSzsCwt1bW7oSk1lXoai8vG24h1vaI3x4P4=
+github.com/dexter-liu/go-bmi v0.0.0-20250107085034-41f067d6d6bb/go.mod h1:IRWwJrpk3LD5+hTuGcHPOBTXTJ3pyQxqXEPuhAu27JA=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
