@@ -3,7 +3,7 @@ module github.com/dexter-liu/learn-go
 go 1.23.3
 
 require (
-	github.com/dexter-liu/go-bmi v0.0.0-20250107085034-41f067d6d6bb
+	github.com/dexter-liu/go-bmi v0.0.0-20250107090749-804745964987
 	github.com/spf13/cobra v1.8.1
 )
 
