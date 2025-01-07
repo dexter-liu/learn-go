@@ -1,7 +1,7 @@
 package calculator
 
 import (
-	gobmi "github.com/armstrongli/go-bmi"
+	gobmi "github.com/dexter-liu/go-bmi"
 )
 
 func CalcFatRate(bmi float64, age int, sex string) (fatRate float64) {

@@ -1,7 +1,7 @@
 package calculator
 
 import (
-	gobmi "github.com/armstrongli/go-bmi"
+	gobmi "github.com/dexter-liu/go-bmi"
 )
 
 func CalcBMI(tall float64, weight float64) (bmi float64) {
